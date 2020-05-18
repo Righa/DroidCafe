@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="droid_deserts">Droid Desserts</string>
+    <string name="choose_desert">Choose Dessert</string>
+    <string name="burger_desc">Burgers are confusing complicated contextual technical and desirable so lets all eat burgers and forget other foods</string>
+    <string name="ice_cream_desc">This is real cold chilly ice cream. i sometimes wonder why people consider it in the stomach but i came to realize not everything is about the stomach</string>
+    <string name="pizza_desc">This kind of pizza is a little alien so there won\'t be much of a description from me. just taste it and tell us</string>
+
+    <string name="burger_order">You have ordered a burger</string>
+    <string name="ice_cream_order">You have ordered an ice cream</string>
+    <string name="pizza_order">You have ordered a pizza</string>
+    <string name="choose_delivery_method">Choose delivery method</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="about_us">About Us</string>
+    <string name="order">Order</string>
+    <string name="order_status">Order Status</string>
+    <string name="location">Location</string>
+    <string name="call">Call</string>
+</resources>
