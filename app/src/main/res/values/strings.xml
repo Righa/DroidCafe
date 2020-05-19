@@ -11,9 +11,9 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="droid_deserts">Droid Desserts</string>
     <string name="choose_desert">Choose Dessert</string>
-    <string name="burger_desc">Burgers are confusing complicated contextual technical and desirable so lets all eat burgers and forget other foods</string>
-    <string name="ice_cream_desc">This is real cold chilly ice cream. i sometimes wonder why people consider it in the stomach but i came to realize not everything is about the stomach</string>
-    <string name="pizza_desc">This kind of pizza is a little alien so there won\'t be much of a description from me. just taste it and tell us</string>
+    <string name="burger_desc">Burgers are made of foodstuffs and creativity</string>
+    <string name="ice_cream_desc">Ice cream is cold, creamy and tasty</string>
+    <string name="pizza_desc">This kind of pizza is a result of passion and skill</string>
 
     <string name="burger_order">You have ordered a burger</string>
     <string name="ice_cream_order">You have ordered an ice cream</string>
@@ -27,4 +27,8 @@
     <string name="order_status">Order Status</string>
     <string name="location">Location</string>
     <string name="call">Call</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="note">Note:</string>
 </resources>
